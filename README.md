@@ -64,7 +64,9 @@ Feel free to reach out via the [contact page](https://www.joshuaedwardstutoring.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshedwbit&layout=compact)](https://github.com/joshedwbit)
 
-| [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshedwbit&show_icons=true&count_private=true&theme=jolly)](https://github.com/joshedwbit)    | [![GitHub Streak](https://streak-stats.demolab.com/?user=joshedwbit&theme=jolly)](https://git.io/streak-stats)   |
+| Header 1 | Header 2 |
+|----------|----------|
+| [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshedwbit&show_icons=true&count_private=true&theme=jolly)](https://github.com/joshedwbit)    | [![GitHub Streak](https://streak-stats.demolab.com/?user=joshedwbit&theme=jolly)](https://git.io/streak-stats)    |
 
 <!--
 **joshedwbit/joshedwbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
