@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Joshua, a former Mathematics graduate and now a PHP developer.
-In my last role as a full stack web developer, I contributed to several live sites, focussing on both backend and frontend development, as well as CMS integration -  you can find more details on my <a href="https://github.com/joshd3r">company Github account.</a>
+In my last role as a full stack web developer, I contributed to several live sites, focussing on both backend and frontend development, as well as CMS integration -  you can find more details on my <a href="https://github.com/joshd3r">D3R Github account.</a>
 
 ## Technologies & Tools
 Programming/Scripting Languages worked with:<br>
