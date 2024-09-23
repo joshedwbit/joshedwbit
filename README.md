@@ -38,20 +38,26 @@ Learning:<br>
 
 ## Currently
 I'm focusing on developing personal projects in Laravel, next steps can be found inside the projects tab:
-My own diet/lifestyle tracker: <a href="https://github.com/joshedwbit/75-hard">75hard tracker</a>
-My personal tutoring portfolio website: <a href="https://github.com/joshedwbit/laravel-tutoring-portfolio">Joshua Edwards tutoring</a>
+<ul>
+  <li>My own diet/lifestyle tracker: <a href="https://github.com/joshedwbit/75-hard">75hard tracker</a></li>
+  <li>My personal tutoring portfolio website: <a href="https://github.com/joshedwbit/laravel-tutoring-portfolio">Joshua Edwards tutoring</a></li>
+</ul>
 
 ## Past projects
-**Tutoring Portfolio (Django)**: Formerly written using Python Django framework. [View on GitHub](https://github.com/joshedwbit/DjangoWebsiteRedesign)
-**JavaScript Frameworks**: Exploring Vue.js and Ember.js, Vue/React to follow soon. [Ember.js Tutorial](https://github.com/joshedwbit/emberjs-tutorial) | [Node.js Project](https://github.com/joshedwbit/NodeJSProject)
-**Leetcode Solutions (Ongoing)**: Solving coding challenges. [Leetcode Problems](https://github.com/joshedwbit/leetcodeProblems)
-**Mathematics Research**: Study of Chaos Theory and the Kuramoto-Sivashinsky equation using Matlab. [Dissertation Docs](https://github.com/joshedwbit/Dissertationdocs)
+<ul>
+  <li>**Tutoring Portfolio (Django)**: Formerly written using Python Django framework. [View on GitHub](https://github.com/joshedwbit/DjangoWebsiteRedesign)</li>
+  <li>**JavaScript Frameworks**: Exploring Vue.js and Ember.js, Vue/React to follow soon. [Ember.js Tutorial](https://github.com/joshedwbit/emberjs-tutorial) | [Node.js Project](https://github.com/joshedwbit/NodeJSProject)</li>
+  <li>**Leetcode Solutions (Ongoing)**: Solving coding challenges. [Leetcode Problems](https://github.com/joshedwbit/leetcodeProblems)</li>
+  <li>**Mathematics Research**: Study of Chaos Theory and the Kuramoto-Sivashinsky equation using Matlab. [Dissertation Docs](https://github.com/joshedwbit/Dissertationdocs)</li>
+</ul>
 
 ## Outside of Coding
-**Traveling**: I love exploring new cultures and destinations, always looking for the next adventure.
-**Hiking**: Long walks and ending with a cozy pub lunch.
-**Cycling**: Riding through scenic routes, anywhere and everywhere.
-**Tutoring**: I offer private math tuition to help students excel in their studies.
+<ul>
+  <li>**Traveling**: I love exploring new cultures and destinations, always looking for the next adventure.</li>
+  <li>**Hiking**: Long walks and ending with a cozy pub lunch.</li>
+  <li>**Cycling**: Riding through scenic routes, anywhere and everywhere.</li>
+  <li>**Tutoring**: I offer private math tuition to help students excel in their studies.</li>
+</ul>
 
 ## Get in touch
 Feel free to reach out via the [contact page](https://www.joshuaedwardstutoring.com/contact) on my website. I'm always open to discussing new opportunities, collaborations, or just chatting about web development!
