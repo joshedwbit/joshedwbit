@@ -66,7 +66,7 @@ Feel free to reach out via the [contact page](https://www.joshuaedwardstutoring.
 
 | Stats | Streaks |
 |----------|----------|
-| [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshedwbit&show_icons=true&count_private=true&theme=jolly)](https://github.com/joshedwbit)    | [![GitHub Streak](https://streak-stats.demolab.com/?user=joshedwbit&theme=jolly)](https://git.io/streak-stats)    |
+| [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshedwbit&show_icons=true&count_private=true&theme=jolly&include_all_commits=true&rank_icon=percentile)](https://github.com/joshedwbit)    | [![GitHub Streak](https://streak-stats.demolab.com/?user=joshedwbit&theme=jolly)](https://git.io/streak-stats)    |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshedwbit&layout=compact&theme=jolly&count_private=true)](https://github.com/joshedwbit)
 
