@@ -62,6 +62,7 @@ Learning:<br>
 ## Get in touch
 Feel free to reach out via the [contact page](https://www.joshuaedwardstutoring.com/contact) on my website. I'm always open to discussing new opportunities, collaborations, or just chatting about web development!
 
+## Numbers
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshedwbit&layout=compact&theme=jolly&count_private=true)](https://github.com/joshedwbit)
 
 | Stats | Streaks |
