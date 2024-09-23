@@ -46,8 +46,8 @@ I'm focusing on developing personal projects in Laravel, next steps can be found
 ## Past projects
 <ul>
   <li>Tutoring Portfolio (Django): Formerly written using Python Django framework. <a href="https://github.com/joshedwbit/DjangoWebsiteRedesign">View on Github</a></li>
-  <li>JavaScript Frameworks: Exploring Vue.js and Ember.js, Vue/React to follow soon. <a href="https://github.com/joshedwbit/emberjs-tutorial">Emberjs</a> <a href="https://github.com/joshedwbit/NodeJSProject">Nodejs</a></li>
-  <li>Leetcode Solutions (Ongoing): Solving coding challenges. <a href="https://github.com/joshedwbit/leetcodeProblems">Leedcode solutions</a></li>
+  <li>JavaScript Frameworks: Exploring Node.js and Ember.js, Vue/React to follow soon. <a href="https://github.com/joshedwbit/NodeJSProject">Nodejs</a>, <a href="https://github.com/joshedwbit/emberjs-tutorial">Emberjs</a></li>
+  <li>Leetcode Solutions (ongoing): Solving coding challenges. <a href="https://github.com/joshedwbit/leetcodeProblems">Leedcode solutions</a></li>
   <li>Mathematics Research: Study of Chaos Theory and the Kuramoto-Sivashinsky equation using Matlab. <a href="https://github.com/joshedwbit/Dissertationdocs">Dissertation docs</a></li>
 </ul>
 
