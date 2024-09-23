@@ -45,18 +45,18 @@ I'm focusing on developing personal projects in Laravel, next steps can be found
 
 ## Past projects
 <ul>
-  <li>**Tutoring Portfolio (Django)**: Formerly written using Python Django framework. [View on GitHub](https://github.com/joshedwbit/DjangoWebsiteRedesign)</li>
-  <li>**JavaScript Frameworks**: Exploring Vue.js and Ember.js, Vue/React to follow soon. [Ember.js Tutorial](https://github.com/joshedwbit/emberjs-tutorial) | [Node.js Project](https://github.com/joshedwbit/NodeJSProject)</li>
-  <li>**Leetcode Solutions (Ongoing)**: Solving coding challenges. [Leetcode Problems](https://github.com/joshedwbit/leetcodeProblems)</li>
-  <li>**Mathematics Research**: Study of Chaos Theory and the Kuramoto-Sivashinsky equation using Matlab. [Dissertation Docs](https://github.com/joshedwbit/Dissertationdocs)</li>
+  <li>Tutoring Portfolio (Django): Formerly written using Python Django framework. <a href="https://github.com/joshedwbit/DjangoWebsiteRedesign">View on Github</a></li>
+  <li>**JavaScript Frameworks**: Exploring Vue.js and Ember.js, Vue/React to follow soon. <a href="https://github.com/joshedwbit/emberjs-tutorial">Emberjs</a> <a href="https://github.com/joshedwbit/NodeJSProject">Nodejs</a></li>
+  <li>**Leetcode Solutions (Ongoing)**: Solving coding challenges. <a href="https://github.com/joshedwbit/leetcodeProblems">Leedcode solutions</a></li>
+  <li>**Mathematics Research**: Study of Chaos Theory and the Kuramoto-Sivashinsky equation using Matlab. <a href="https://github.com/joshedwbit/Dissertationdocs">Dissertation docs</a></li>
 </ul>
 
 ## Outside of Coding
 <ul>
-  <li>**Traveling**: I love exploring new cultures and destinations, always looking for the next adventure.</li>
-  <li>**Hiking**: Long walks and ending with a cozy pub lunch.</li>
-  <li>**Cycling**: Riding through scenic routes, anywhere and everywhere.</li>
-  <li>**Tutoring**: I offer private math tuition to help students excel in their studies.</li>
+  <li>Traveling: I love exploring new cultures and destinations, always looking for the next adventure.</li>
+  <li>Hiking: Long walks and ending with a cozy pub lunch.</li>
+  <li>Cycling: Riding through scenic routes, anywhere and everywhere.</li>
+  <li>Tutoring: I offer private math tuition to help students excel in their studies.</li>
 </ul>
 
 ## Get in touch
