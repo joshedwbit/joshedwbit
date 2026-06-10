@@ -60,7 +60,7 @@ Learning:<br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Get in touch
-Feel free to reach out via the [contact page](https://www.joshuaedwardstutoring.com/contact) on my website. I'm always open to discussing new opportunities, collaborations, or just chatting about web development!
+Feel free to reach out via the [contact page](https://www.joshuaedwardstutoring.com/#section--contact) on my website. I'm always open to discussing new opportunities, collaborations, or just chatting about web development!
 
 ## Numbers
 
